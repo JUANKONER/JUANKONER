@@ -25,4 +25,4 @@ Me muevo entre el mundo del **desarrollo web**, la **automatización con Power P
 
 ---
 
-✨ *“La versatilidad entre el mundo IT y el industrial me permite ofrecer soluciones completas, desde la web hasta la fábrica.”*
+✨ *“La versatilidad entre el mundo IT y el industrial me permite ofrecer soluciones completas y funcionales.”*
