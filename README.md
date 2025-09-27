@@ -21,7 +21,7 @@ Me muevo entre el mundo del **desarrollo web**, la **automatización con Power P
 ## 🌐 Conéctemos
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/juancarlosjimenezempleo)  
-- 📧 [tuemail@example.com](juankarrr1@gmail.com)  
+- 📧 [juankarrr1@gmail.com](juankarrr1@gmail.com)  
 
 ---
 
