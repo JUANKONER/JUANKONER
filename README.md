@@ -11,7 +11,7 @@ Me muevo entre el mundo del **desarrollo web**, la **automatización con Power P
 - **Backend:** PHP, Java, APIs RESTful, autenticación y seguridad  
 - **Bases de datos:** MySQL, SQL Server  
 - **Cloud & DevOps:** Git, GitHub, Docker, Vercel, Netlify  
-- **Automatización:** Power Apps, Power Automate, Power BI  
+- **Automatización:** Power Apps, Power Automate, Power BI,SharePoint 
 - **Industria:** NC Express, programación CNC, mejora de procesos  
 - **Metodologías:** Scrum, Agile  
 
