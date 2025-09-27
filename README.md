@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Juan Carlos
 
 💻 **Web Developer** con formación en **Desarrollo de Aplicaciones Web (DAW)** y experiencia profesional como **Responsable de Programación en el área de fabricación (Sisteven)**.  
 Me muevo entre el mundo del **desarrollo web**, la **automatización con Power Platform** y la **programación CNC para entornos industriales**, siempre con el objetivo de mejorar procesos y aportar soluciones eficientes.
